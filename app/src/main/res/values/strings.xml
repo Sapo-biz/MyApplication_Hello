@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyApplication_Hello</string>
+    <string name="open_button">Open Button Fragment</string>
+    <string name="button_fragment_message">Welcome to ButtonFragment!</string>
 </resources>
